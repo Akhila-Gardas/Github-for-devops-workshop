@@ -1,0 +1,25 @@
+    1  git status
+    2  git --version
+    3  clear
+    4  ls
+    5  clear
+    6  pwd
+    7  git config --global user.name "Akhila-Gardas"
+    8  git config --globa user.email "akhilagm28@gmail.com"
+    9  git config --list
+   10  python testing.py
+   11  py testing.py
+   12  clear
+   13  ls
+   14  ls -l
+   15  git init
+   16  git status
+   17   clear
+   18  git add testing.py
+   19  git status
+   20  git commit -m "Added testing files"
+   21  rm testing.py
+   22  git status
+   23  git restore testing.py
+   24  clear
+   25  git status
