@@ -5,21 +5,20 @@
     5  clear
     6  pwd
     7  git config --global user.name "Akhila-Gardas"
-    8  git config --globa user.email "akhilagm28@gmail.com"
-    9  git config --list
-   10  python testing.py
-   11  py testing.py
-   12  clear
-   13  ls
-   14  ls -l
-   15  git init
-   16  git status
-   17   clear
-   18  git add testing.py
-   19  git status
-   20  git commit -m "Added testing files"
-   21  rm testing.py
-   22  git status
-   23  git restore testing.py
-   24  clear
-   25  git status
+    8  git config --list
+    9 python testing.py
+   10  py testing.py
+   11  clear
+   12  ls
+   13  ls -l
+   14  git init
+   15  git status
+   16   clear
+   17  git add testing.py
+   18  git status
+   19  git commit -m "Added testing files"
+   20  rm testing.py
+   21  git status
+   22  git restore testing.py
+   23  clear
+   24  git status
