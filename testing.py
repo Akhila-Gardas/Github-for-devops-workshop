@@ -1,6 +1,11 @@
+"""
+This module provides a greeting functionality test.
+"""
+
+
 def hello():
     """
-    this is demo
+    Prints a simple hello demo string.
     """
     return "Hello World"
 

@@ -1,9 +1,10 @@
-def my_function():
-    a = 5
-    b = 8
-
-    return d
+"""
+This module contains a basic layout demo for the DevOps workshop.
+"""
 
 
-
-my_function()
+def demo_function():
+    """
+    A placeholder demo function that returns true.
+    """
+    return True
